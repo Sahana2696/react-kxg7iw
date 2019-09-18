@@ -4,4 +4,4 @@ const MyDataComp=(props)=>{
     
     return  <Store.Consumer> {<div>hi</div> }</Store.Consumer>
 }
-export {MyDataComp}
+export {MyDataComp} 
